@@ -7,3 +7,5 @@ The dataset is from Kaggle under the name 400 Bird Species computed on Jetson Na
 The objective of the project is to train a model with CNN and transfer learning in order to get a good accuracy, a minimum loss conducting to a precise prediction of the different bird species images.
 
 The training dataset is used to train the model, the validation dataset to evaluate the model while training and the test dataset to test the model using external data
+
+made by- Ayush Mishra, Zayed Syed Haque and Gaurav Saha
